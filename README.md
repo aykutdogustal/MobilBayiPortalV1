@@ -1,2 +1,2 @@
 # MobilBayiPortalV1
-Telekom Bayi Müşteri Takip Portalı
+Telekomünikasyon Müşteri Kampanya ve Dijital Servis Takip Portalı
